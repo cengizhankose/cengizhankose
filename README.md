@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display:flex;align-items:flex-start">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=cengizhankose&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengizhankose&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
 </div>
