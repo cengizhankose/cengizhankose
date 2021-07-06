@@ -45,9 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cengizhankose&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengizhankose&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
-  <a href="https://github.com/cengizhankose/re-cap-project-with-csharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=cengizhankose&repo=re-cap-project-with-csharp&show_icons=true&theme=tokyonight"</img>
-  </a>
   <a href="https://github.com/cengizhankose/cengizhankose">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cengizhankose&repo=cengizhankose&show_icons=true&theme=tokyonight"</img>
   </a>
