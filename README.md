@@ -19,6 +19,10 @@
 <a href="https://www.linkedin.com/in/cengizhan-k%C3%B6se-817b0a189/" target="_blank" rel="nofollow"><img alt="Cengizhan's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kose651@gmail.com" target="_blank" rel="nofollow"><img alt="Cengizhan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+
+[![cengizhankose's GitHub | Topics Over Time](https://stats.quira.sh/cengizhankose/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=cengizhankose)
+[![cengizhankose's GitHub | Languages Over Time](https://stats.quira.sh/cengizhankose/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=cengizhankose)
+
 ## 🛠 Technologies & Tools
 
 <div>
